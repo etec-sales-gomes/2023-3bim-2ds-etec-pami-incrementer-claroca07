@@ -16,6 +16,7 @@ function App() {
 
   return (
     <>
+        <img src="https://static.wikia.nocookie.net/sanrio/images/1/10/Hello-kitty.png/revision/latest?cb=20171105235741" alt="" />
       <div className="Corpo">
         <header>
           <div className="titulo">
